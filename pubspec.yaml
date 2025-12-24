@@ -1,7 +1,7 @@
 name: symmetric_difference
 description: symmetric defference library
 version: 2.0.0
-repository: https://github.com/ScorlyFly/Symmetric_defference
+repository: https://github.com/ScorlyFly/Symmetric_difference
 
 environment:
   sdk: ^3.9.2
